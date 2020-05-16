@@ -1,3 +1,3 @@
 FreeCodeCamp\
 Responsive Web Design\
-Build a Tribute Page\
+Build a Tribute Page
